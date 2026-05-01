@@ -4,8 +4,8 @@ MBA thesis on balancing speed and quality in agile product development using sec
 # Agile Product Development: Balancing Speed and Quality
 
 ## Overview
-This project explores how agile teams balance development speed and product quality** in modern software development environments. With increasing market pressure for faster releases, organizations often face challenges in maintaining reliability, stability, and long-term sustainability of products.
-The study focuses on understanding this **speed–quality trade-off** in agile frameworks and identifies key practices that help teams achieve both rapid delivery and high-quality outcomes.
+This project explores how agile teams balance development speed and product quality in modern software development environments. With increasing market pressure for faster releases, organizations often face challenges in maintaining reliability, stability, and long-term sustainability of products.
+The study focuses on understanding this speed–quality trade-off in agile frameworks and identifies key practices that help teams achieve both rapid delivery and high-quality outcomes.
 
 ## Key Highlights
 * Analysis of Agile methodologies (Scrum, Kanban, XP, SAFe)
@@ -21,10 +21,10 @@ The study focuses on understanding this **speed–quality trade-off** in agile f
 * Assess impact on product quality and customer satisfaction
 
 ## Methodology
-* **Research Type:** Qualitative Secondary Research
-* **Approach:** Inductive, interpretivist
-* **Data Sources:** Academic literature, industry reports, case studies
-* **Analysis Method:** Thematic analysis
+* Research Type: Qualitative Secondary Research
+* Approach: Inductive, interpretivist
+* Data Sources: Academic literature, industry reports, case studies
+* Analysis Method: Thematic analysis
 
 ## Key Findings
 * Speed and quality are not opposing forces but interconnected outcomes
@@ -39,7 +39,7 @@ The study focuses on understanding this **speed–quality trade-off** in agile f
 * Research Methods: Thematic Analysis, Secondary Research
 
 ## Conclusion
-Agile product development is a **socio-technical system** where speed and quality must be managed together. Organizations that successfully integrate engineering discipline with strong leadership and collaborative culture achieve better long-term product performance and customer satisfaction.
+Agile product development is a socio-technical system where speed and quality must be managed together. Organizations that successfully integrate engineering discipline with strong leadership and collaborative culture achieve better long-term product performance and customer satisfaction.
 
 ## Future Scope
 * Development of integrated models for speed-quality optimization
